@@ -13,4 +13,10 @@ For MagicDraw:
 C:\Users\MarkPetrotta\AppData\Local\.magicdraw\18.5\plugins
 
 
+In the end, there should be something like this:
+
+C:\Users\MarkPetrotta\AppData\Local\.cameoea\18.5\plugins\com.systemxi.MagicDrawGraph
+  \MagicDrawGraph.jar
+  \plugin.xml
+
 
