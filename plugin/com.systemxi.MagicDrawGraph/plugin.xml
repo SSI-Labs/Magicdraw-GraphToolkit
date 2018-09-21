@@ -15,6 +15,7 @@
 	</requires>
 
 	<runtime>
+
 		<library name="MagicDrawGraph.jar"/>
 
 	
