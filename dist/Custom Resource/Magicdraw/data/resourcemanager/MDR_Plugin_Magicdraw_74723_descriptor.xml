@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resourceDescriptor critical="false" date="18-09-22" description="MagicDraw Graph Tools" group="SSI" homePage="www.systemxi.com" id="74723" mdVersionMax="higher" mdVersionMin="17.0" name="SSI Graph Tools" product="Magicdraw" restartMagicdraw="true" type="Plugin">
+    <version human="18.5 SP3" internal="1850010" resource="18500100"/>
+    <provider email="mpetrotta@systemxi.com" homePage="" name="Mark Petrotta"/>
+    <edition>Reader</edition>
+    <edition>Community</edition>
+    <edition>Standard</edition>
+    <edition>Professional Java</edition>
+    <edition>Professional C++</edition>
+    <edition>Professional C#</edition>
+    <edition>Professional</edition>
+    <edition>Architect</edition>
+    <edition>Enterprise</edition>
+    <installation>
+        <file from="plugins/com.systemxi.MagicDrawGraph/MagicDrawGraph.jar" to="plugins/com.systemxi.MagicDrawGraph/MagicDrawGraph.jar"/>
+        <file from="plugins/com.systemxi.MagicDrawGraph/plugin.xml" to="plugins/com.systemxi.MagicDrawGraph/plugin.xml"/>
+    </installation>
+</resourceDescriptor>

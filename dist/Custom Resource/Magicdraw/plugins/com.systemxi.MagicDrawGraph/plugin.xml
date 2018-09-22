@@ -6,7 +6,7 @@
 	internalVersion="1850010"
 	ownClassloader="true"
 	class-lookup="LocalFirst"
-	provider-name="Mark Petrotta"
+	provider-name="SSI"
 	class="org.systemxi.magicdrawgraph.GraphBuilderPlugIn">
 
 	<requires>
